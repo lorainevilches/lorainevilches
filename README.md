@@ -7,5 +7,5 @@ I am passionate about bringing simple and dynamic solutions for all projects tha
 Here are some quick things about me:
 
 - 🔭 I have a digital agency called Jetskillo (jetskillo.com)
-- 🌱 I’m currently learning Angular, React, Vue, Typescript, SQL and advanced JS - And getting mad
+- 🌱 I’m currently learning Angular, React, Vue, Typescript, SQL and advanced JS - And getting mad and crazy (all the same time)
 - ⚡ I do air drum when I'm coding and I never set my playlist in Spotify in "random mode" because I'm afraid...
