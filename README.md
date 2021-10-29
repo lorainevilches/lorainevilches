@@ -1,11 +1,10 @@
-### (pt-br) E a galera 👋
+### (en-us) Hey you 👋
 
-Prazer, Loraine - mas pra não errar, me chame de Lô!
+Call me Lô, it's easier, short and I like!
 
-🔥 Especialista em Sistemas Web Mobile/Desktop
-
-🐿️ CEO da @oficialjetskillo
-
-📍 São Paulo, Brasil (por enquanto)
-
+🔥 Web Mobile/Desktop System Specialist (+8y)
+🐿️ @oficialjetskillo
+📍 São Paulo, Brasil (for now)
 🚀 Ora et Labora
+
+--Try to get out of my confort zone so, I'm back to basics--
