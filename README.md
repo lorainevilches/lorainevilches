@@ -7,7 +7,7 @@ Call me Lô, it's easier, short and I like!
 
 🐿️ @oficialjetskillo
 
-📍 São Paulo, Brasil (for now)
+📍 Madrid, Spain
 
 🚀 Ora et Labora
 
