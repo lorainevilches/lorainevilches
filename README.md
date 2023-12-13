@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Nextjs, Reactjs, Angularjs**
 
-- 👨‍💻 All of my projects will be available at [behance.net/lorainevilches](behance.net/lorainevilches)
+- 👨‍💻 All of my projects WILL be available at [behance.net/lorainevilches](behance.net/lorainevilches)
 
-- 📝 I regularly post on [instagram.com/lorainevilches.web](instagram.com/lorainevilches.web)
+- 📝 I WILL regularly post on [instagram.com/lorainevilches.web](instagram.com/lorainevilches.web)
 
 - 💬 Ask me about **How I transform your desing into code**
 
 - 📫 How to reach me **askto@lorainevilches.com**
 
-- 📄 Know about my experiences [+10 years making websites](+10 years making websites)
+- 📄 Know about my experiences over +10 years making websites
 
 - ⚡ Fun fact **Passionate about driving**
 
